@@ -1,0 +1,42 @@
+h1 {
+    color: white;
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+}
+body {
+    background-color: black;
+    overflow-x: hidden;
+}
+/* Deslize */
+html {
+    scroll-behavior: smooth;
+}
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+  margin-top: 2vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+  
+p {
+    color: white;
+    text-align: center;
+    font-family: monospace;
+    font-size: 16px;
+}
+.text {
+  text-align: justify;
+  border-style: dotted;
+  color : white;
+  text-align: center;
+  width: auto;
+  display: block
+  height: auto;
+  padding: 8vw;
+}
+a {
+  color: red;
+}
